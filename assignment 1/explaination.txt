@@ -1,0 +1,2 @@
+This query joins the salesman and customer tables on the salesman_id column, and filters the results to only include rows where the salesman and customer reside in the same city.
+The query then selects the name column from the salesman table, and the cust_name and city columns from the customer table.
