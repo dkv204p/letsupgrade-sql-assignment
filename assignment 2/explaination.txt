@@ -1,0 +1,11 @@
+The first part of the script creates the "students" table with the specified columns. The id column is defined as the primary key with auto-increment.
+
+The next three statements insert three rows of data into the "students" table. The INSERT INTO statement specifies the table name and the columns to insert values into.
+
+The next statement retrieves all rows from the "students" table using the SELECT statement.
+
+The UPDATE statement changes the name of the student with id equal to 2 to "Janet".
+
+The DELETE statement removes the row with id equal to 3 from the "students" table.
+
+Finally, the last SELECT statement retrieves all rows from the "students" table again to verify that the changes have been made.
